@@ -18,7 +18,7 @@ lsout=$?
 #echo $lsout 
 if [[ "$lsout" != "0" ]] 
   then 	 
-	hdfs dfs -mkdir $hdir 
+	hdfs dfs -mkdir $hdir &> /dev/null
 	#hdfs dfs -chmod 700 $hdir
 fi  
 
