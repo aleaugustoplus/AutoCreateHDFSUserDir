@@ -10,3 +10,6 @@ These files has to be placed in all client nodes
 Enjoy :)
 Alexandre Lopes
 
+
+
+https://aprendizadodemaquina.com
