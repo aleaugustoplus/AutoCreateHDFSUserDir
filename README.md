@@ -5,7 +5,7 @@
 * Copy FromHadoopProf.sh and hadoop.sh to /etc/profile.d/
 * Make sure the user has privileges to create a /user/{username} directory
 
-These files have to be placed in all client nodes
+These files have to be installed in all client nodes
 
 Enjoy :)
 Alexandre Lopes
