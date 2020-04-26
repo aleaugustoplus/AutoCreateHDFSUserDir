@@ -2,7 +2,7 @@
 
 These scripts are meant to create the automatically the user's home directory within hdfs filesystem once users log in into the client nodes 
 
-[hadoop](https://miro.medium.com/max/575/1*4hrapVX5mm02qZW6iktAQw.jpeg)
+![hadoop](https://miro.medium.com/max/575/1*4hrapVX5mm02qZW6iktAQw.jpeg)
 
 ## Getting Started
 
